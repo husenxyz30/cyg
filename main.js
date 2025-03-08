@@ -18,7 +18,7 @@ const headers = {
     'sec-fetch-site': 'same-origin',
     'sec-gpc': '1',
     'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36'
-
+};
 const data = {
     id: "did:privy:cm801xu3v00hjcyuquvvqmzcq", //GANTI INI
     power: 10000 , //GANTI INI
