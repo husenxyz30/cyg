@@ -22,7 +22,7 @@ const headers = {
 
 const data = {
     id: "did:privy:cm801xu3v00hjcyuquvvqmzcq", //GANTI INI
-    power: 100 , //GANTI INI
+    power: 10000 , //GANTI INI
     energy: 10,
     lastPlayAt: "2025-03-08T09:51:57.566Z"
 };
